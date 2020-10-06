@@ -1,16 +1,16 @@
-### Hi there 👋
+![Visma Addo](https://github.com/vismaaddo/vismaaddo/logo.png "Visma Addo")
 
-<!--
-**vismaaddo/vismaaddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Visma Addo** is a digital signature service in which the signing process between two or more parties is completely digitalized. The solution makes the signing process quick and easy for clients, but also for you and your company.
 
-Here are some ideas to get you started:
+**Visma Addo** is the cheapest solution for digital signature and it allows you to streamline your signing procedure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Visma Addo** is the easiest way to integrate a digital signature service into your own product.
+
+---
+
+These pages are meant for developers. If you want to learn more about **Visma Addo** please visit our website on [https://vismaaddo.dk/](https://vismaaddo.dk/).
+
+Samples on how to integrate with the **Visma Addo** API:
+
+* [Addo Samples in .NET Core / C#](https://github.com/vismaaddo/AddoSamples)
+
