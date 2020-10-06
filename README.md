@@ -1,4 +1,4 @@
-![Visma Addo](https://github.com/vismaaddo/vismaaddo/logo.png "Visma Addo")
+![Visma Addo](/assets/logo.png "Visma Addo")
 
 **Visma Addo** is a digital signature service in which the signing process between two or more parties is completely digitalized. The solution makes the signing process quick and easy for clients, but also for you and your company.
 
