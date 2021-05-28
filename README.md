@@ -14,5 +14,7 @@ Samples on how to integrate with the **Visma Addo** API:
 
 * [Addo Samples in .NET Core / C#](https://github.com/vismaaddo/AddoSamples)
 
-You should really have a look at the [Visma Addo API documentation](ADDO-APIDocumentation-AddoWebService-230421-0917-80.pdf) to see what the API has to offer.
+You should really have a look at the [Visma Addo API documentation](https://vismaaddo.github.io/AddoAPI/ADDO/index,html) to see what the API has to offer.
+The documentation can also be downloaded as a [PDF](ADDO-APIDocumentation-AddoWebService-230421-0917-80.pdf) for offline reading.
+
 
